@@ -50,7 +50,7 @@ Second landmine, also encoded here: every fixed-format `DateFormatter` uses `en_
 Swift Package Manager:
 
 ```swift
-.package(url: "https://github.com/YOURUSER/TinyICS.git", from: "0.1.0")
+.package(url: "https://github.com/srijak/TinyICS.git", from: "0.1.0")
 ```
 
 ## License
