@@ -2,6 +2,9 @@
 
 A tiny, zero-dependency ICS (RFC 5545) parser for Swift, built for one common job: **"give me today's events from a calendar feed"** — like a Google Calendar secret ICS URL.
 
+Pair-programmed with Claude (Anthropic) — who also wrote the CRLF bug this README is about, so credit and blame 
+travel together.
+
 ```swift
 import TinyICS
 
